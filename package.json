@@ -1,0 +1,19 @@
+{
+  "name": "guess-the-password",
+  "version": "1.0.0",
+  "description": "Given a list of potential passwords, try to guess the correct one.",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CianHub/guess-the-password.git"
+  },
+  "author": "Cian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CianHub/guess-the-password/issues"
+  },
+  "homepage": "https://github.com/CianHub/guess-the-password#readme"
+}
